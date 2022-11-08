@@ -1,0 +1,17 @@
+.class6 h2{
+   background: #000;
+   text-align: center;
+   font-size: 80px; 
+   color: blue;
+}
+.class6 h3{
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 2px;
+text-shadow: 2px 2px red;
+word-spacing: 20px;
+}
+.class6 p{
+line-height: 28px;
+font-size: 14px;
+}
